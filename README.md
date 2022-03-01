@@ -1,6 +1,8 @@
 # Advanced-System-Util
 Advanced System Util for Windows 8/10
 
+Watch the video on utube following link
+https://www.youtube.com/watch?v=zNGMZp6uKNs&t=303s
 
 this batch and powershell scripts were created to make an admins life a little easier for windows repair and lan administration
 
