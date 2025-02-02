@@ -14,3 +14,5 @@ some of the powershell scripts are not created and maintained by me but are incl
 this script is use at your own risk
 
 the script can be modified or edited or added to by the end user enjoy!
+
+leave and questions in the issues section or contact me via email at stevendoane@wiz-fx.com
