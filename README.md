@@ -19,4 +19,4 @@ leave and questions in the issues section or contact me via email at stevendoane
 
 NOTE: some of the scripts will work in previous versions of windows
 
-THIS IS RELEASED AS IS WITH NO WARRANTY OR RESPONSIBALITY THAT DAMAGES YOU SYSTEM
+THIS IS RELEASED AS IS WITH NO WARRANTY OR RESPONSIBALITY THAT DAMAGES YOUR SYSTEM
