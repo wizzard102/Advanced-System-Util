@@ -1,0 +1,58 @@
+
+Host Name:                     WIZFXMAIN
+OS Name:                       Microsoft Windows 11 Pro
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              stevendoane123@gmail.com
+Registered Organization:       
+Product ID:                    00330-80000-00000-AA446
+Original Install Date:         1/12/2025, 9:19:11 PM
+System Boot Time:              2/3/2025, 11:36:52 PM
+System Manufacturer:           Micro-Star International Co., Ltd.
+System Model:                  MS-7B58
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~3696 Mhz
+BIOS Version:                  American Megatrends Inc. 1.B0, 7/10/2024
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume3
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:         32,713 MB
+Available Physical Memory:     25,356 MB
+Virtual Memory: Max Size:      82,713 MB
+Virtual Memory: Available:     73,914 MB
+Virtual Memory: In Use:        8,799 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\WIZFXMAIN
+Hotfix(s):                     3 Hotfix(s) Installed.
+                               [01]: KB5049622
+                               [02]: KB5050009
+                               [03]: KB5050387
+Network Card(s):               1 NIC(s) Installed.
+                               [01]: Killer E2500 Gigabit Ethernet Controller
+                                     Connection Name: Ethernet
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.146.1
+                                     IP address(es)
+                                     [01]: 192.168.146.186
+                                     [02]: fe80::501c:6ec0:e7ed:90c0
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Memory Overwrite
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.

@@ -1,0 +1,1 @@
+Get-AppxPackage | Foreach {Add-AppxPackage -register "$($_.InstallLocation)\appxmanifest.xml" -DisableDevelopmentMode}
