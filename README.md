@@ -16,3 +16,7 @@ this script is use at your own risk
 the script can be modified or edited or added to by the end user enjoy!
 
 leave and questions in the issues section or contact me via email at stevendoane@wiz-fx.com
+
+NOTE: some of the scripts will work in previous versions of windows
+
+THIS IS RELEASED AS IS WITH NO WARRANTY OR RESPONSIBALITY THAT DAMAGES YOU SYSTEM
