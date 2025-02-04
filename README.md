@@ -1,5 +1,5 @@
 # Advanced-System-Util
-Advanced System Util for Windows 8/10/11
+Advanced System Util for Windows 11
 
 Watch the video on utube following link
 https://www.youtube.com/watch?v=zNGMZp6uKNs&t=303s
