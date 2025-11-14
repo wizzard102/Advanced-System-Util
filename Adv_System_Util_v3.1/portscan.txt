@@ -1,0 +1,188 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1444
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       10572
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING       14716
+ Can not obtain ownership information
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       1076
+ Can not obtain ownership information
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       840
+ Can not obtain ownership information
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       2432
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       2904
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49671          0.0.0.0:0              LISTENING       3960
+ [spoolsv.exe]
+  TCP    0.0.0.0:49678          0.0.0.0:0              LISTENING       1048
+ Can not obtain ownership information
+  TCP    127.0.0.1:43227        0.0.0.0:0              LISTENING       4860
+ Can not obtain ownership information
+  TCP    192.168.146.186:139    0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    192.168.146.186:49683  38.90.226.65:8883      ESTABLISHED     2272
+ Can not obtain ownership information
+  TCP    192.168.146.186:49710  13.64.180.106:443      ESTABLISHED     4680
+  WpnService
+ [svchost.exe]
+  TCP    192.168.146.186:49821  4.152.45.207:443       CLOSE_WAIT      17996
+ [PrimeVideo.exe]
+  TCP    192.168.146.186:49822  4.152.45.207:443       CLOSE_WAIT      17996
+ [PrimeVideo.exe]
+  TCP    192.168.146.186:52695  23.215.6.145:443       CLOSE_WAIT      9244
+ [nvcontainer.exe]
+  TCP    192.168.146.186:52826  3.160.5.55:443         ESTABLISHED     17236
+ [1Password.exe]
+  TCP    192.168.146.186:53187  108.156.184.5:443      CLOSE_WAIT      4860
+ Can not obtain ownership information
+  TCP    192.168.146.186:53857  44.215.116.52:443      ESTABLISHED     17996
+ [PrimeVideo.exe]
+  TCP    192.168.146.186:53871  3.162.163.66:443       ESTABLISHED     17996
+ [PrimeVideo.exe]
+  TCP    192.168.146.186:53872  3.162.163.66:443       ESTABLISHED     17996
+ [PrimeVideo.exe]
+  TCP    192.168.146.186:53873  44.215.117.206:443     CLOSE_WAIT      17996
+ [PrimeVideo.exe]
+  TCP    192.168.146.186:53874  3.82.34.185:443        ESTABLISHED     17996
+ [PrimeVideo.exe]
+  TCP    192.168.146.186:53875  3.160.24.126:443       ESTABLISHED     17996
+ [PrimeVideo.exe]
+  TCP    192.168.146.186:53880  52.109.4.22:443        ESTABLISHED     12312
+ [StartMenuExperienceHost.exe]
+  TCP    192.168.146.186:53894  3.147.213.177:443      ESTABLISHED     17996
+ [PrimeVideo.exe]
+  TCP    192.168.146.186:53895  54.85.206.201:443      ESTABLISHED     17996
+ [PrimeVideo.exe]
+  TCP    192.168.146.186:53896  18.238.25.12:443       ESTABLISHED     17996
+ [PrimeVideo.exe]
+  TCP    192.168.146.186:53897  50.19.51.61:443        ESTABLISHED     17996
+ [PrimeVideo.exe]
+  TCP    [::]:135               [::]:0                 LISTENING       1444
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:7680              [::]:0                 LISTENING       14716
+ Can not obtain ownership information
+  TCP    [::]:49664             [::]:0                 LISTENING       1076
+ Can not obtain ownership information
+  TCP    [::]:49665             [::]:0                 LISTENING       840
+ Can not obtain ownership information
+  TCP    [::]:49666             [::]:0                 LISTENING       2432
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49667             [::]:0                 LISTENING       2904
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49671             [::]:0                 LISTENING       3960
+ [spoolsv.exe]
+  TCP    [::]:49678             [::]:0                 LISTENING       1048
+ Can not obtain ownership information
+  TCP    [::1]:49673            [::]:0                 LISTENING       4340
+ [jhi_service.exe]
+  UDP    0.0.0.0:123            *:*                                    13712
+  W32Time
+ [svchost.exe]
+  UDP    0.0.0.0:500            *:*                                    4324
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                                    2828
+ [dashost.exe]
+  UDP    0.0.0.0:3702           *:*                                    2828
+ [dashost.exe]
+  UDP    0.0.0.0:4500           *:*                                    4324
+  IKEEXT
+ [svchost.exe]
+  UDP    0.0.0.0:5050           *:*                                    10572
+  CDPSvc
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                                    2104
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:5355           *:*                                    2104
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:53761          *:*                                    2828
+ [dashost.exe]
+  UDP    0.0.0.0:54035          *:*                                    2104
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:63817          38.90.226.11:53535                     2272
+ Can not obtain ownership information
+  UDP    127.0.0.1:1900         *:*                                    12336
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:10010        *:*                                    12096
+ [NVIDIA Overlay.exe]
+  UDP    127.0.0.1:10011        *:*                                    2848
+ [nvcontainer.exe]
+  UDP    127.0.0.1:50089        127.0.0.1:0                            2272
+ Can not obtain ownership information
+  UDP    127.0.0.1:50090        127.0.0.1:0                            2272
+ Can not obtain ownership information
+  UDP    127.0.0.1:56604        *:*                                    9244
+ [nvcontainer.exe]
+  UDP    127.0.0.1:59990        *:*                                    12336
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:64001        127.0.0.1:64001                        4316
+  iphlpsvc
+ [svchost.exe]
+  UDP    127.0.0.1:64002        127.0.0.1:0                            2272
+ Can not obtain ownership information
+  UDP    192.168.146.186:137    *:*                                    4
+ Can not obtain ownership information
+  UDP    192.168.146.186:138    *:*                                    4
+ Can not obtain ownership information
+  UDP    192.168.146.186:1900   *:*                                    12336
+  SSDPSRV
+ [svchost.exe]
+  UDP    192.168.146.186:59989  *:*                                    12336
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:123               *:*                                    13712
+  W32Time
+ [svchost.exe]
+  UDP    [::]:500               *:*                                    4324
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:3702              *:*                                    2828
+ [dashost.exe]
+  UDP    [::]:3702              *:*                                    2828
+ [dashost.exe]
+  UDP    [::]:4500              *:*                                    4324
+  IKEEXT
+ [svchost.exe]
+  UDP    [::]:5353              *:*                                    2104
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:5355              *:*                                    2104
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:53762             *:*                                    2828
+ [dashost.exe]
+  UDP    [::]:54035             *:*                                    2104
+  Dnscache
+ [svchost.exe]
+  UDP    [::1]:1900             *:*                                    12336
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:59988            *:*                                    12336
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::501c:6ec0:e7ed:90c0%10]:1900  *:*                                    12336
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::501c:6ec0:e7ed:90c0%10]:59987  *:*                                    12336
+  SSDPSRV
+ [svchost.exe]
