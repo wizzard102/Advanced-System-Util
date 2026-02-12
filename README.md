@@ -5,6 +5,9 @@ This Script is optimized for Powershell 7
 Download Powershell 7 Here
 https://learn.microsoft.com/en-us/powershell/scripting/install/install-powershell-on-windows?view=powershell-7.5
 
+NotePad++ for editing the scripts is the best way get here
+https://notepad-plus-plus.org/
+
 Watch the video on utube following link
 https://www.youtube.com/watch?v=zNGMZp6uKNs&t=303s
 
