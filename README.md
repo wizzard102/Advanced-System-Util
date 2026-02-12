@@ -1,6 +1,10 @@
 # Advanced-System-Util
 Advanced System Util for Windows 11
 
+This Script is optimized for Powershell 7
+Download Powershell 7 Here
+https://learn.microsoft.com/en-us/powershell/scripting/install/install-powershell-on-windows?view=powershell-7.5
+
 Watch the video on utube following link
 https://www.youtube.com/watch?v=zNGMZp6uKNs&t=303s
 
